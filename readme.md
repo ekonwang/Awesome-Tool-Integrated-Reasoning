@@ -8,13 +8,13 @@
 
 ## Table of Contents
 
-- [🤗 Introduction](#introduction)
-- [📚 Mathematical Reasoning](#mathematical-reasoning)
-- [🎨 Multimodal and Visual Reasoning](#multimodal-and-visual-reasoning)
-- [🤖 General Reasoning and Agency](#general-reasoning-and-agency)
-- [📊 Evaluation and Benchmarks](#evaluation-and-benchmarks)
-- [🔍 Related Resources](#related-resources)
-- [👥 Contributing](#contributing)
+- [🤗 Introduction](#-introduction)
+- [📚 Mathematical Reasoning](#-mathematical-reasoning)
+- [🎨 Multimodal and Visual Reasoning](#-multimodal-and-visual-reasoning)
+- [🤖 General Reasoning and Agency](#-general-reasoning-and-agency)
+- [📊 Evaluation and Benchmarks](#-evaluation-and-benchmarks)
+- [🔍 Related Resources](#-related-resources)
+- [👥 Contributing](#-contributing)
 
 ## 🤗 Introduction
 
