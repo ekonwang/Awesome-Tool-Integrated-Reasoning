@@ -1,6 +1,6 @@
 # Awesome Tool-Integrated Reasoning (Awesome TIR)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](assets/awesome.svg)](https://awesome.re)
 
 A curated collection of academic research works related to Tool-Integrated Reasoning (TIR), providing a comprehensive reference resource for researchers and developers. Tool-Integrated Reasoning is an emerging AI paradigm that significantly enhances reasoning capabilities and problem-solving abilities by combining Large Language Models (LLMs) or Large Vision-Language Models (LVLMs) with external tools.
 
