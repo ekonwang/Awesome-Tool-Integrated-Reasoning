@@ -2,6 +2,8 @@
 
 [![Awesome](assets/awesome.svg)](https://awesome.re)
 
+[English](readme.md) | [中文](readme_zh.md)
+
 本仓库收集了与工具集成推理（Tool-Integrated Reasoning）相关的学术研究工作，旨在为研究人员和开发者提供一个全面的参考资源。工具集成推理是一种新兴的人工智能范式，它通过将大型语言模型（LLM）或大型视觉语言模型（LVLM）与外部工具相结合，显著增强了模型的推理能力和问题解决能力。
 
 ## 目录

@@ -2,6 +2,8 @@
 
 [![Awesome](assets/awesome.svg)](https://awesome.re)
 
+[English](readme.md) | [中文](readme_zh.md)
+
 A curated collection of academic research works related to Tool-Integrated Reasoning (TIR), providing a comprehensive reference resource for researchers and developers. Tool-Integrated Reasoning is an emerging AI paradigm that significantly enhances reasoning capabilities and problem-solving abilities by combining Large Language Models (LLMs) or Large Vision-Language Models (LVLMs) with external tools.
 
 ## Table of Contents
