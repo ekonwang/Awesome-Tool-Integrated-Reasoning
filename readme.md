@@ -8,15 +8,15 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Mathematical Reasoning](#mathematical-reasoning)
-- [Multimodal and Visual Reasoning](#multimodal-and-visual-reasoning)
-- [General Reasoning and Agency](#general-reasoning-and-agency)
-- [Evaluation and Benchmarks](#evaluation-and-benchmarks)
-- [Related Resources](#related-resources)
-- [Contributing](#contributing)
+- [🤗 Introduction](#introduction)
+- [📚 Mathematical Reasoning](#mathematical-reasoning)
+- [🎨 Multimodal and Visual Reasoning](#multimodal-and-visual-reasoning)
+- [🤖 General Reasoning and Agency](#general-reasoning-and-agency)
+- [📊 Evaluation and Benchmarks](#evaluation-and-benchmarks)
+- [🔍 Related Resources](#related-resources)
+- [👥 Contributing](#contributing)
 
-## Introduction
+## 🤗 Introduction
 
 ---
 
@@ -24,7 +24,7 @@ Tool-Integrated Reasoning (TIR) represents a significant advancement in artifici
 
 In recent years, with the emergence of works like ToRA and START, the TIR field has made remarkable progress and demonstrated powerful potential in mathematical problem-solving, scientific reasoning, code generation, and many other domains. This repository aims to systematically collect and organize academic research works related to TIR, providing a reference for researchers and practitioners in this field.
 
-## Mathematical Reasoning
+## 📚 Mathematical Reasoning
 
 ---
 
@@ -47,7 +47,7 @@ Mathematical reasoning is one of the earliest and most successful application do
 > - Publication Date: March 2025
 > - Link: [https://arxiv.org/abs/2503.04625](https://arxiv.org/abs/2503.04625)
 
-## Multimodal and Visual Reasoning
+## 🎨 Multimodal and Visual Reasoning
 
 ---
 
@@ -68,7 +68,7 @@ TIR research in the multimodal and visual reasoning domain focuses on how to com
 > - Publication Date: June 2024
 > - Link: [https://arxiv.org/abs/2406.09403](https://arxiv.org/abs/2406.09403)
 
-## General Reasoning and Agency
+## 🤖 General Reasoning and Agency
 
 ---
 
@@ -89,7 +89,7 @@ TIR research in the general reasoning and agency domain focuses on how to build 
 > - Publication Date: April 2025
 > - Link: [https://arxiv.org/abs/2504.11536](https://arxiv.org/abs/2504.11536)
 
-## Evaluation and Benchmarks
+## 📊 Evaluation and Benchmarks
 
 ---
 
@@ -102,7 +102,7 @@ Evaluation and benchmarks are crucial for measuring the effectiveness of TIR met
 > - Publication Date: April 2025
 > - Link: [https://paperswithcode.com/paper/2504.18589](https://paperswithcode.com/paper/2504.18589)
 
-## Related Resources
+## 🔍 Related Resources
 
 ---
 
@@ -110,13 +110,13 @@ Evaluation and benchmarks are crucial for measuring the effectiveness of TIR met
 - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) - A collection of resources related to large language models
 - [Awesome LVLM](https://github.com/Gary-code/Awesome-LVLM-paper) - A collection of papers related to large vision-language models
 
-## Contributing
+## 👥 Contributing
 
 ---
 
 Contributions to this repository are welcome through Pull Requests or Issues! Please ensure that your contributions include complete paper information, including title, authors, publication date, link, etc.
 
-## Citation
+## 📝 Citation
 
 ---
 
