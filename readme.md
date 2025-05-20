@@ -106,7 +106,6 @@ Evaluation and benchmarks are crucial for measuring the effectiveness of TIR met
 
 ---
 
-<!-- - [LLM Reasoning Survey](https://github.com/reasoning-survey/LLM-Reasoning-Papers) - A collection of papers related to reasoning in large language models -->
 - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) - A collection of resources related to large language models
 - [Awesome LVLM](https://github.com/Gary-code/Awesome-LVLM-paper) - A collection of papers related to large vision-language models
 
