@@ -53,6 +53,27 @@ Mathematical reasoning is one of the earliest and most successful application do
 
 TIR research in the multimodal and visual reasoning domain focuses on how to combine visual information with language reasoning, enhancing the reasoning capabilities of multimodal models through tools.
 
+### DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning
+
+> DeepEyes is a novel approach that incentivizes "thinking with images" via reinforcement learning, enabling models to leverage visual reasoning for complex problem-solving. By training models to generate and utilize visual representations during reasoning, DeepEyes enhances the model's ability to solve problems requiring spatial understanding and visual reasoning.
+> 
+> - Publication Date: May 2025
+> - Link: [https://arxiv.org/abs/2505.14362](https://arxiv.org/abs/2505.14362)
+
+### Visual Agentic Reinforcement Fine-Tuning
+
+> Visual Agentic Reinforcement Fine-Tuning presents a method for enhancing visual reasoning capabilities in multimodal models through reinforcement learning. This approach enables models to learn how to effectively utilize visual information during reasoning processes, improving performance on tasks requiring visual understanding and reasoning.
+> 
+> - Publication Date: May 2025
+> - Link: [https://arxiv.org/abs/2505.14246](https://arxiv.org/abs/2505.14246)
+
+### OPENTHINKIMG: Learning to Think with Images via Visual Tool Reinforcement Learning
+
+> OPENTHINKIMG introduces a framework for learning to think with images via visual tool reinforcement learning. This approach enables models to learn how to generate and manipulate visual representations as reasoning tools, significantly enhancing their ability to solve problems requiring visual reasoning and spatial understanding.
+> 
+> - Publication Date: May 2025
+> - Link: [https://arxiv.org/abs/2505.08617v1](https://arxiv.org/abs/2505.08617v1)
+
 ### VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search
 
 > VisuoThink is a novel framework that seamlessly integrates visuospatial and linguistic domains, achieving multimodal slow thinking through look-ahead tree search. Inspired by the mechanisms of slow thinking in human cognition, this method enables models to perform progressive visual-textual reasoning and significantly enhances reasoning capabilities through inference-time scaling.
@@ -73,6 +94,13 @@ TIR research in the multimodal and visual reasoning domain focuses on how to com
 ---
 
 TIR research in the general reasoning and agency domain focuses on how to build intelligent agents that can flexibly use multiple tools to enhance the model's general reasoning capabilities.
+
+### Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning
+
+> Tool-Star is a framework that empowers LLM-brained multi-tool reasoners via reinforcement learning. This approach enables models to learn how to effectively select and utilize multiple tools during reasoning processes, significantly enhancing their problem-solving capabilities across diverse domains requiring different types of tools.
+> 
+> - Publication Date: May 2025
+> - Link: [https://arxiv.org/abs/2505.16410](https://arxiv.org/abs/2505.16410)
 
 ### Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research
 
