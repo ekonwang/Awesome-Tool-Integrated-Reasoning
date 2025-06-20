@@ -1,6 +1,6 @@
 # Awesome Tool-Integrated Reasoning (Awesome TIR)
 
-[![Awesome](assets/awesome.svg)](https://awesome.re)
+[![Awesome](assets/awesome.svg)](https://awesome.re)![Stars](https://img.shields.io/github/stars/ekonwang/Awesome-Tool-Integrated-Reasoning)
 
 [English](readme.md) | [中文](readme_zh.md)
 
