@@ -95,6 +95,15 @@
 
 通用推理和智能体领域的TIR研究专注于如何构建能够灵活使用多种工具的智能体，以增强模型的通用推理能力。
 
+### ToolMaster: 通过环境交互教LLM学会工具试用与执行
+
+> ToolMaster把工具学习从模仿专家轨迹转向"试用-执行"范式：模型主动尝试工具、与环境交互，并根据反馈自我纠错。训练流程为先监督微调、再强化学习（GRPO）。
+> 
+> - 作者：Xingjie Gao, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Shuo Wang, Zulong Chen, Chen Qian, Ge Yu, Yu Gu
+> - 发表日期：2026年1月
+> - 链接：[https://arxiv.org/abs/2601.12762](https://arxiv.org/abs/2601.12762)
+> - 代码：[https://github.com/NEUIR/ToolMaster](https://github.com/NEUIR/ToolMaster)
+
 ### Tool-Star: 通过强化学习增强LLM大脑的多工具推理器
 
 > Tool-Star是一个通过强化学习增强LLM大脑的多工具推理器的框架。这种方法使模型能够学习如何在推理过程中有效选择和利用多种工具，显著增强其在需要不同类型工具的多样化领域中的问题解决能力。

@@ -95,6 +95,15 @@ TIR research in the multimodal and visual reasoning domain focuses on how to com
 
 TIR research in the general reasoning and agency domain focuses on how to build intelligent agents that can flexibly use multiple tools to enhance the model's general reasoning capabilities.
 
+### ToolMaster: Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction
+
+> ToolMaster shifts tool learning from imitating expert trajectories to a trial-and-execution paradigm: the model actively tries out tools, interacts with the environment, and self-corrects based on the feedback. It is trained with supervised fine-tuning followed by reinforcement learning (GRPO).
+> 
+> - Authors: Xingjie Gao, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Shuo Wang, Zulong Chen, Chen Qian, Ge Yu, Yu Gu
+> - Publication Date: January 2026
+> - Link: [https://arxiv.org/abs/2601.12762](https://arxiv.org/abs/2601.12762)
+> - Code: [https://github.com/NEUIR/ToolMaster](https://github.com/NEUIR/ToolMaster)
+
 ### Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning
 
 > Tool-Star is a framework that empowers LLM-brained multi-tool reasoners via reinforcement learning. This approach enables models to learn how to effectively select and utilize multiple tools during reasoning processes, significantly enhancing their problem-solving capabilities across diverse domains requiring different types of tools.
